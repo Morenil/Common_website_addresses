@@ -1,4 +1,10 @@
+Hybrid-Mount|https://github.com/Hybrid-Mount/meta-hybrid_mount/tags/
+Magic Mount|
+Magic Mount-rs|https://github.com/KernelSU-Modules-Repo/magic_mount_rs/tags/
+overlayfs|https://github.com/KernelSU-Modules-Repo/meta-overlayfs/tags/
+mountify|https://github.com/backslashxx/mountify/tags/
 Play Integrity Fix|https://github.com/KOWX712/PlayIntegrityFix/tags/
+Integrity-Box|https://github.com/MeowDump/Integrity-Box/tags/
 TrickyStore|https://github.com/5ec1cff/TrickyStore/tags/
 TEESimulator|https://github.com/JingMatrix/TEESimulator/tags/
 TEESimulator-RS|https://github.com/Enginex0/TEESimulator-RS/tags/
@@ -6,7 +12,14 @@ TA(Ts插件)|https://github.com/Enginex0/tricky-addon-enhanced/tags/
 TS插件|https://github.com/KOWX712/Tricky-Addon-Update-Target-List/tags/
 新应用自动添加至TS列表|https://github.com/weixsub/Tricky_Store_Auto_Add_APP/tags/
 Zygisk Next|https://github.com/Dr-TSNG/ZygiskNext/tags/
+NeoZygisk|https://github.com/JingMatrix/NeoZygisk/tags/
+NyaZygisk|https://github.com/HSSkyBoy/NyaZygisk/tags/
+ReZygisk|https://github.com/PerformanC/ReZygisk/tags/
 LSPosed|https://lsposed.zip/
+LSPosed-mod|https://github.com/mywalkb/LSPosed_mod/tags/
+LSPosed-Irena|https://github.com/re-zero001/LSPosed-Irena/tags/
+ReLSPosed|https://github.com/AnatolyJacobs/ReLSPosed_CLI/tags/
 HMA-OSS|https://github.com/frknkrc44/HMA-OSS/tags/
+ZN-Audit Patch|https://github.com/aviraxp/ZN-AuditPatch/tags/
 SUSFS-FOR-KERNELSU|https://github.com/sidex15/susfs4ksu-module/tags/
 指纹支付|https://github.com/eritpchy/FingerprintPay/tags/
